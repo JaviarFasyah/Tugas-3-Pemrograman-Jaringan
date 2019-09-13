@@ -6,6 +6,7 @@
 **Jawaban Soal No. 1:**  
 ![1_screenshot.PNG](/screenshot%20n%20fsm/1_screenshot.PNG)  
 program ini mencari alamat melalui hostname yang dimasukan melalui argumen. Dan akan menampilkan error apabila masukan tidak sesuai  
+  
 **Jawaban Soal No. 2:**  
 ![2_screenshot.png](/screenshot%20n%20fsm/2_screenshot.png)  
 program ini melakukan lookupport dengan masukan networktype dan service sebagai masukan, kalau masukan sesuai program akan mengembalikan port yang sesuai juga.  
