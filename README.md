@@ -1,10 +1,10 @@
 # Tugas-3-Pemrograman-Jaringan
-### Javiar Fasyah - 1301164477  
-### Hilmi Triandi N		1301164286
-### Fahrur Rozi Syarbini	1301164213
+### Javiar Fasyah         1301164477
+### Hilmi Triandi N		    1301164286
+### Fahrur Rozi Syarbini	1301164213  
 
 **Jawaban Soal No. 1:**  
-![1_screenshot.png](/screenshot n fsm/1_screenshot.png)  
+![1_screenshot.PNG](/screenshot n fsm/1_screenshot.PNG)  
 program ini mencari alamat melalui hostname yang dimasukan melalui argumen. Dan akan menampilkan error apabila masukan tidak sesuai  
 **Jawaban Soal No. 2:**  
 ![2_screenshot.png](/screenshot n fsm/2_screenshot.png)  
